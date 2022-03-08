@@ -1,7 +1,7 @@
 # GitHub der Computerlinguistik der Universität Trier
 
 ## **Inhaltsverzeichnis**
-1. [Wichtige Links](#links)
+1. [Nützliche Links](#links)
 2. [Repositories](#Repositories)
     1. [STeMinfo](#STeMinfo)
 
