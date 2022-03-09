@@ -1,26 +1,22 @@
-# GitHub der Computerlinguistik der Universität Trier
+# GitHub of Computational Linguistics at Trier University
 
-## **Inhaltsverzeichnis**
-1. [Nützliche Links](#links)
+## **Contents**
+1. [Helpful Links](#links)
 2. [Repositories](#Repositories)
     1. [STeMinfo](#STeMinfo)
 
 
 
-
-
-## **Nützliche Links**
-- [Webseite der Computerlinguistik](https://www.uni-trier.de/index.php?id=68010)
-- [Anmeldung zum E-Mail-Verteiler](https://www.uni-trier.de/universitaet/fachbereiche-faecher/fachbereich-ii/faecher/computerlinguistik-und-digital-humanities/organisation/e-mail-verteiler)
+## **Helpful Links**
+- [Website Computational Linguistics](https://www.uni-trier.de/index.php?id=68010)
+- [Registration Mailing List](https://www.uni-trier.de/universitaet/fachbereiche-faecher/fachbereich-ii/faecher/computerlinguistik-und-digital-humanities/organisation/e-mail-verteiler)
 - [Mattermost](https://mattermost.gitlab.rlp.net/cldh-trier/channels/town-square)
-- [Twitter-Account der Computerlinguistik und Digital Humanities](https://twitter.com/cldh_trier)
-
-
+- [Twitter-Account Computational Linguistics and Digital Humanities](https://twitter.com/cldh_trier)
 
 
 
 ## **Repositories**
 ### **STeMinfo**
-Enthält grundlegende Informationen zum Bachelorstudiengang "Sprache, Technologie, Medien" (STeM) mit den Schwerpunkten Phonetik, Digital Humanities und Künstliche Intelligenz & Computerlinguistik. Außerdem Informationen zu Prüfungens- und Veranstaltungsanmeldung, Prüfungen allgemein und Studienberatung, 
+Contains basic information concerning the Bachelor's programme "Language, Technology, Media" (STeM) with the study focuses Phonetics, Digital Humanities and Artificial Intelligence & Computational Linguistics. Further, the repository encompasses information on assessments in general, registration to courses and exams, and study advice. 
 
 
