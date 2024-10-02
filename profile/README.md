@@ -1,6 +1,6 @@
 # GitHub of Computational Linguistics at Trier University
 
-Welcome to the GitHub of Computational Linguistics at Trier University! This ReadMe provides important links and introductions to the repositories.
+Welcome to the GitHub of Computational Linguistics at Trier University! It provides important links as well as information on projects of the department.
 
 ## **Contents**
 1. [Helpful Links](#links)
