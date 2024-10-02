@@ -1,12 +1,20 @@
-## Hi there 👋
+# GitHub of Computational Linguistics at Trier University
 
-<!--
+## **Contents**
+1. [Helpful Links](#links)
+2. [Repositories](#Repositories)
+    1. [STeMinfo](#STeMinfo)
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## **Helpful Links**
+- [Website Computational Linguistics](https://www.uni-trier.de/index.php?id=68010)
+- [Registration Mailing List](https://www.uni-trier.de/universitaet/fachbereiche-faecher/fachbereich-ii/faecher/computerlinguistik-und-digital-humanities/organisation/e-mail-verteiler)
+- [Mattermost](https://mattermost.gitlab.rlp.net/cldh-trier/channels/town-square)
+- [Twitter-Account Computational Linguistics and Digital Humanities](https://twitter.com/cldh_trier)
+
+
+
+## **Repositories**
+### **STeMinfo**
+Contains basic information concerning the Bachelor's programme "Language, Technology, Media" (STeM) with the study focuses Phonetics, Digital Humanities and Artificial Intelligence & Computational Linguistics. Further, the repository encompasses information on assessments in general, registration to courses and exams, and study advice. 
