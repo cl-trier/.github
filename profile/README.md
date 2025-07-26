@@ -8,20 +8,16 @@ This space hosts student resources, project repositories, and links to essential
 
 ## 📑 Table of Contents
 
-- [🔬 Research Repositories](#-research-repositories)
-- [🎓 Student Resources](#-student-resources)
-- [🔗 Helpful Links](#-helpful-links)
-- [📬 Contact](#-contact)
+1. [🔬 Research Repositories](#-research-repositories)
+2. [🎓 Student Resources](#-student-resources)
+3. [🔗 Helpful Links](#-helpful-links)
+4. [📬 Contact](#-contact)
 
 ---
 
 ## 🔬 Research Repositories
 
 Below you’ll find an overview of research-related repositories, grouped by project or research topic.
-
----
-
-cltrier_lib, cltrier_prosem, cltrier_promptClassify
 
 ---
 
