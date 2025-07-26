@@ -44,9 +44,9 @@ cltrier_lib, cltrier_nlp, cltrier_prosem, cltrier_promptClassify
 
 These repositories provide guidelines and templates for students writing term papers, portfolios, or theses in Computational Linguistics.
 
-- [thesis](https://github.com/cl-trier/thesis): Templates and writing guides for BA/MA theses 
-- [written-assignment](https://github.com/cl-trier/written-assignment): Resources for seminar papers and academic writing 
-- [portfolio](https://github.com/cl-trier/portfolio): Portfolio template and instructions 
+- [Thesis](https://github.com/cl-trier/thesis)
+- [Written Assignment](https://github.com/cl-trier/written-assignment)
+- [Portfolio](https://github.com/cl-trier/portfolio)
 
 ---
 
