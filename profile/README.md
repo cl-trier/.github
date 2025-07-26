@@ -6,6 +6,7 @@ Welcome to the GitHub of Computational Linguistics at Trier University!  It host
 1. [Helpful Links](#links)
 2. [Repositories](#Repositories)
     1. [STeMinfo](#STeMinfo)
+    2. [Student Resources](#StudentResources)
 
 
 
@@ -20,8 +21,8 @@ Welcome to the GitHub of Computational Linguistics at Trier University!  It host
 ### **STeMinfo**
 Contains basic information concerning the Bachelor's programme "Language, Technology, Media" (STeM) with the study focuses Phonetics, Digital Humanities and Artificial Intelligence & Computational Linguistics. Further, the repository encompasses information on assessments in general, registration to courses and exams, and study advice. 
 
-### **Student Resources**
+### **StudentResources**
 We provide repositories with guidelines, templates and more, on the following forms of examination:
-- [Thesis](/thesis) (Bachelor/Master)
-- [Written Assignment](/written-assignment)
-- [Portfolio](/portfolio)
+- [Thesis](thesis) (Bachelor/Master)
+- [Written Assignment](written-assignment)
+- [Portfolio](portfolio)
