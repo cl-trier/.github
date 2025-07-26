@@ -26,8 +26,9 @@ cltrier_lib, cltrier_nlp, cltrier_prosem, cltrier_promptClassify
 
 ---
 
-### 🧠 TWON
+### TWON
 *TWON DESCRIPTION*
+
 **Related Repositories**
 - [TWON-Agents](https://github.com/cl-trier/TWON-Agents)
 - [TWON-Evaluation](https://github.com/cl-trier/TWON-Evaluation)
@@ -39,13 +40,13 @@ cltrier_lib, cltrier_nlp, cltrier_prosem, cltrier_promptClassify
 
 ## 🎓 Student Resources
 
+### Guidelines & Templates
+
 These repositories provide guidelines and templates for students writing term papers, portfolios, or theses in Computational Linguistics.
 
-| Repository | Description |
-|------------|-------------|
-| [`thesis`](https://github.com/cl-trier/thesis) | Templates and writing guides for BA/MA theses |
-| [`written-assignment`](https://github.com/cl-trier/written-assignment) | Resources for seminar papers and academic writing |
-| [`portfolio`](https://github.com/cl-trier/portfolio) | Portfolio template and instructions |
+- [thesis](https://github.com/cl-trier/thesis): Templates and writing guides for BA/MA theses 
+- [written-assignment](https://github.com/cl-trier/written-assignment): Resources for seminar papers and academic writing 
+- [portfolio](https://github.com/cl-trier/portfolio): Portfolio template and instructions 
 
 ---
 
