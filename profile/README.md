@@ -18,14 +18,22 @@ This space hosts student resources, project repositories, and links to essential
 
 ## 🔬 Research Repositories
 
-These repositories are mainly used by researchers and staff members for academic and scientific work.
+Below you’ll find an overview of research-related repositories, grouped by project or research topic.
 
-| Repository | Description |
-|------------|-------------|
-| [`gramdict`](https://github.com/cl-trier/gramdict) | A grammar-based dictionary project for lexical and syntactic resources |
-| [`tagset-experiments`](https://github.com/cl-trier/tagset-experiments) | Experimental setup for analyzing POS tagsets in corpus linguistics |
-| [`seacrowd-benchmark`](https://github.com/cl-trier/seacrowd-benchmark) | Benchmark datasets and scripts for evaluating NLP models in Southeast Asian languages |
-| _[More repos in development…]_ |
+---
+
+cltrier_lib, cltrier_nlp, cltrier_prosem, cltrier_promptClassify
+
+---
+
+### 🧠 TWON
+*TWON DESCRIPTION*
+**Related Repositories**
+- [TWON-Agents](https://github.com/cl-trier/TWON-Agents)
+- [TWON-Evaluation](https://github.com/cl-trier/TWON-Evaluation)
+- [TWON-Exploration](https://github.com/cl-trier/TWON-Exploration)
+- [TWON-Metrics](https://github.com/cl-trier/TWON-Metrics)
+- [TWON-Ranker](https://github.com/cl-trier/TWON-Ranker)
 
 ---
 
