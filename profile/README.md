@@ -23,6 +23,6 @@ Contains basic information concerning the Bachelor's programme "Language, Techno
 
 ### **StudentResources**
 We provide repositories with guidelines, templates and more, on the following forms of examination:
-- [Thesis](./thesis) (Bachelor/Master)
-- [Written Assignment](./written-assignment)
-- [Portfolio](./portfolio)
+- [Thesis](https://github.com/cl-trier/thesis) (Bachelor/Master)
+- [Written Assignment](https://github.com/cl-trier/written-assignment)
+- [Portfolio](https://github.com/cl-trier/portfolio)
