@@ -8,10 +8,22 @@ This space hosts student resources, project repositories, and links to essential
 
 ## 📑 Table of Contents
 
-1. [🔬 Research Repositories](#-research-repositories)
-2. [🎓 Student Resources](#-student-resources)
+1. [🎓 Student Resources](#-student-resources)
+2. [🔬 Research Repositories](#-research-repositories)
 3. [🔗 Helpful Links](#-helpful-links)
 4. [📬 Contact](#-contact)
+
+---
+
+## 🎓 Student Resources
+
+### Guidelines & Templates
+
+These repositories provide guidelines and templates for students writing term papers, portfolios, or theses in Computational Linguistics.
+
+- [`thesis`](https://github.com/cl-trier/thesis)
+- [`written-assignment`](https://github.com/cl-trier/written-assignment)
+- [`portfolio`](https://github.com/cl-trier/portfolio)
 
 ---
 
@@ -68,18 +80,6 @@ TWON is an EU-funded research initiative building a digital twin of online socia
 - [`TWON-Exploration`](https://github.com/cl-trier/TWON-Exploration)
 - [`TWON-Metrics`](https://github.com/cl-trier/TWON-Metrics)
 - [`TWON-Ranker`](https://github.com/cl-trier/TWON-Ranker)
-
----
-
-## 🎓 Student Resources
-
-### Guidelines & Templates
-
-These repositories provide guidelines and templates for students writing term papers, portfolios, or theses in Computational Linguistics.
-
-- [`thesis`](https://github.com/cl-trier/thesis)
-- [`written-assignment`](https://github.com/cl-trier/written-assignment)
-- [`portfolio`](https://github.com/cl-trier/portfolio)
 
 ---
 
