@@ -17,7 +17,7 @@ This space hosts student resources, project repositories, and links to essential
 
 ## 🔬 Research Repositories
 
-Below you’ll find an overview of research-related repositories, grouped by project or research topic.
+Below you’ll find an overview of research-related repositories, grouped by project.
 
 ---
 
@@ -92,6 +92,6 @@ These repositories provide guidelines and templates for students writing term pa
 
 ## 📬 Contact
 
-For questions or contributions, contact the repository maintainers or reach out via the [Mattermost](https://mattermost.gitlab.rlp.net/cldh-trier/channels/town-square) or [mail](itcldh@uni-trier.de).
+For questions or contributions, contact the repository maintainers or reach out via [Mattermost](https://mattermost.gitlab.rlp.net/cldh-trier/channels/town-square) or e-mail [(itcldh@uni-trier.de)](itcldh@uni-trier.de).
 
 
