@@ -87,6 +87,7 @@ TWON is an EU-funded research initiative building a digital twin of online socia
 - [Website Computational Linguistics](https://www.uni-trier.de/universitaet/fachbereiche-faecher/fachbereich-ii/faecher/computerlinguistik-und-digital-humanities/computerlinguistik-an-der-universitaet-trier)
 - [Registration Mailing List](https://www.uni-trier.de/universitaet/fachbereiche-faecher/fachbereich-ii/faecher/computerlinguistik-und-digital-humanities/studium/e-mail-verteiler)
 - [Mattermost](https://mattermost.gitlab.rlp.net/cldh-trier/channels/town-square)
+- [Compute Overview](https://github.com/cl-trier/.github/blob/main/profile/compute_overview.md)
 
 ---
 
